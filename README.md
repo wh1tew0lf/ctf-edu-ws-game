@@ -14,7 +14,7 @@ npm run start
 http://localhost:3000/index.html
 ```
 Откройте ещё несколько вкладок или дублируйте эту и почувствуйте радость игры с самим собой. 
-В чём суть игры спросите Вы?
+В чём суть игры спросите Вы?  
 ![alt text](https://github.com/wh1tew0lf/ctf-edu-ws-game/raw/master/public/images/imagination.png)
 Удачи ;-)
 
